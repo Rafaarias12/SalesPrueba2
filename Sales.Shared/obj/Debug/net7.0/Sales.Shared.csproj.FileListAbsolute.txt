@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\bin\Debug\net7.0\Sales.Shared.deps.json
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\bin\Debug\net7.0\Sales.Shared.dll
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\bin\Debug\net7.0\Sales.Shared.pdb
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\Sales.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\Sales.Shared.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\Sales.Shared.AssemblyInfo.cs
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\Sales.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\Sales.Shared.dll
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\refint\Sales.Shared.dll
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\Sales.Shared.pdb
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Shared\obj\Debug\net7.0\ref\Sales.Shared.dll

@@ -1,0 +1,1 @@
+C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Mobile\Sales.Mobile.csproj;x64
