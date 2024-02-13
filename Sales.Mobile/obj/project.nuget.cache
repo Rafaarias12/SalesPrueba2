@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1lsKQqWcUDIE+kvHbSJ98+qXSIFRUpVx6YA3QJGtroBL+aw//GCy+5lkJt2TLGGRtB5CTNs7fh+JpVr9TJw3iQ==",
+  "dgSpecHash": "xQetTfn0XkdpggLBo/NgYaTEF7y5ebsGp4WOgHlER8M61wbbvZpbmlGDLJoV0+QWimp7lqVhri8jPLVFFLKC4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\Proyectos Backend\\MAUI\\Sales2\\Sales.Mobile\\Sales.Mobile.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Mobile\\Sales.Mobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

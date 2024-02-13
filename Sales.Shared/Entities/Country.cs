@@ -22,5 +22,6 @@ namespace Sales.Shared.Entities
         public int StatesNumber => States == null ? 0 : States.Count;
 
 
+
     }
 }

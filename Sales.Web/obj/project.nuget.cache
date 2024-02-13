@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zvZ6lBj0TFmmquhGD3N5HavxTlvwQP6aY5wSI2TEGb5MREVyTGsIzENhw0VL1nwbPFb13Zr+8PaHQVeARXQRtg==",
+  "dgSpecHash": "ew/f3bg4+pFLokrw+Udolwd2iGxd6bzIbg7/rCS1mLc+EB5zxYAvvCp/vM2MaWm/luguQNwhuVSzIVggJ+PMcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\Proyectos Backend\\MAUI\\Sales2\\Sales.Web\\Sales.Web.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\Sales.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\currietechnologies.razor.sweetalert2.5.5.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.14\\microsoft.aspnetcore.authorization.7.0.14.nupkg.sha512",

@@ -24365,11 +24365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\Proyectos Backend\\MAUI\\Sales2\\Sales.Mobile\\Sales.Mobile.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Mobile\\Sales.Mobile.csproj",
       "projectName": "Sales.Mobile",
-      "projectPath": "C:\\Users\\Dell\\Documents\\Proyectos Backend\\MAUI\\Sales2\\Sales.Mobile\\Sales.Mobile.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Mobile\\Sales.Mobile.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\Proyectos Backend\\MAUI\\Sales2\\Sales.Mobile\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

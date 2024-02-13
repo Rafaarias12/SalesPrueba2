@@ -17,7 +17,6 @@ namespace Sales.Shared.Entities
         public string Name { get; set; } = null!;
 
         public Country? Country { get; set; }
-
         public ICollection<City>? Cities { get; set; }
 
         [Display(Name = "Ciudades")]

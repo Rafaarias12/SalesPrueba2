@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4l/sGloAM23Du1DKSGfY6gHQY96KcjuiW+O47tFTs+JbfPwzeTJFPDaeksFBJXH0yK+GwNCSgytpSxAlOg8OWQ==",
+  "dgSpecHash": "l8jiKCVROhNdpdJGBGtHTQrKnT92Bh49FLakU95N3K49cpqf0xWwf6Cfk3EFGS35MfaaTpsrCmaJwroNQRDg6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\Proyectos Backend\\MAUI\\Sales2\\Sales.API\\Sales.API.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.API\\Sales.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
