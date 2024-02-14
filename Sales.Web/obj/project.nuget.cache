@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ew/f3bg4+pFLokrw+Udolwd2iGxd6bzIbg7/rCS1mLc+EB5zxYAvvCp/vM2MaWm/luguQNwhuVSzIVggJ+PMcw==",
+  "dgSpecHash": "KT100C5H/ox95o5h0d2j9zch9kY2wEiM6Or5eTxRoRySZSob1/Obwx8T1KiGHWwRjloLcx41jzTKNZ6WEFbS6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\Sales.Web.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"

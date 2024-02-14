@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kPcc/anpW0BwGxACg09BhicT57HVlDZqKAGv3N9Pn93D0g9kny+Lx+tZAKG/BQRP2aW7FqL/lxwinJdVdzU4AQ==",
+  "dgSpecHash": "jjzSJ4GenRCiyJmns2STaOXCU7u6Z24UbUGXOWb9AgNvV6D4wrH6jCrkhKCHge+XTY4jP0WX87OIgDdarkyEAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Shared\\Sales.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

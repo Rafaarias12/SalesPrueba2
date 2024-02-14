@@ -1,1 +1,1 @@
-C:\Users\Dell\Documents\Proyectos Backend\MAUI\Sales2\Sales.Mobile\Sales.Mobile.csproj;x64
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Mobile\Sales.Mobile.csproj;x64

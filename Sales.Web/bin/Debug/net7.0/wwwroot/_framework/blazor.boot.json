@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Sales.Web",
   "resources": {
-    "hash": "sha256-7Dat+ozNthGrv5nN5ihSOebkGO2kNvpPD7M3hGUXHxA=",
+    "hash": "sha256-mbm5LkbOvleCFzcwgARTa5HkxUvsdOz9/P9Er/o5Ec4=",
     "runtime": {
       "dotnet.7.0.15.tv5tlwg9qh.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -34,6 +34,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-q4ruoDSCjV/QJY9ZkzV6uxvEvZUVrDbyUjU3SSh5SlE=",
       "Microsoft.JSInterop.dll": "sha256-tDUEq1bRgkbwPRKdclDqQy6f2l2zgHm+84KImibIOF8=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-jZp0x8/BJDWy8XWsxYJaiGXW3zObZi90AYiYGjhemMU=",
+      "Newtonsoft.Json.dll": "sha256-IsZJ91/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
       "System.IO.Pipelines.dll": "sha256-P/MqD0fCBd5bgTM16JC1QC/Zz7s+CwViyzmDFkBG4/c=",
       "Microsoft.CSharp.dll": "sha256-a6OztVV/ERaGFdMi7bvRQ6S+NoZUje1B1bHizd2g5JA=",
       "Microsoft.VisualBasic.Core.dll": "sha256-REkXTPfMocnfk5vCD/43x/DTzpO0uj7vNmdmUy7T9zU=",
@@ -203,12 +204,12 @@
       "mscorlib.dll": "sha256-fVDx40u1vKqhdy509hDF73SIx6C5q5Mst93LwfZWVQY=",
       "netstandard.dll": "sha256-ohOFXxRJKiyPbitdA1y5ebD9fSAGELDRVmhDM2nVdtA=",
       "System.Private.CoreLib.dll": "sha256-7Y6AhJbgMptcdman3NtSEbcJV520wGmyxB8QvZwrUmc=",
-      "Sales.Shared.dll": "sha256-HfNCJ+p8s+RBxgFMEJjDVVllE5GpoDR3ebVca4ze6vU=",
-      "Sales.Web.dll": "sha256-S/E6lT+kcAVH78wwSuuMpabjXTVs5m0BxPdiy8s4Sm4="
+      "Sales.Shared.dll": "sha256-yVwJy3MdJGtSOYa/EHCE/3RNI3iFR8jJkKODTlD4wPA=",
+      "Sales.Web.dll": "sha256-pMWQeBE46AWjkqeiyE5RiDj9wt5r2PqaLiOiT5b1LlM="
     },
     "pdb": {
-      "Sales.Shared.pdb": "sha256-1+K2KW5ZFIDeEgP6YHGeVgQEtwUIxyjVF0In6ogvVKU=",
-      "Sales.Web.pdb": "sha256-i4ljhvT1m6vgrjZWi28PbuYG+/oOlrRWpR7bGTEvuS8="
+      "Sales.Shared.pdb": "sha256-XFotjtuXk0U9KbQUhrLqktdjhd7h9MgRB69sTE9MNYQ=",
+      "Sales.Web.pdb": "sha256-dYvYDo1nF4qx0tMMLSeLDE1iks+6OwVyWvGzo1MNYs8="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

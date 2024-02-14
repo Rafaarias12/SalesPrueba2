@@ -1677,3 +1677,7 @@ C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\obj\Debug\net7.0\Sales.Web
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\obj\Debug\net7.0\refint\Sales.Web.dll
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\obj\Debug\net7.0\Sales.Web.pdb
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\obj\Debug\net7.0\ref\Sales.Web.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\bin\Debug\net7.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\bin\Debug\net7.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.Web\obj\Debug\net7.0\compressed\li8ofthrc5.gz

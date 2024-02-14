@@ -153,3 +153,4 @@ C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\obj\Debug\net7.0\refint\Sa
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\obj\Debug\net7.0\Sales.API.pdb
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\obj\Debug\net7.0\Sales.API.genruntimeconfig.cache
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\obj\Debug\net7.0\ref\Sales.API.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Newtonsoft.Json.dll

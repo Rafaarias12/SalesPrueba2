@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ce8g57V3GabWp+A/pV3rCiVfakFrUUQvcNiyvswr/G8=",
+  "Hash": "A3Pb1m78BxpafdObIEI5/3wEFrKLng8jeqRhJ1dWou0=",
   "Source": "Sales.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -1383,6 +1383,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\7.0.15\\runtimes\\browser-wasm\\lib\\net7.0\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib\\net6.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Sales.Shared.dll",
@@ -6798,6 +6817,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\li8ofthrc5.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\m7t9zt8sls.gz",
