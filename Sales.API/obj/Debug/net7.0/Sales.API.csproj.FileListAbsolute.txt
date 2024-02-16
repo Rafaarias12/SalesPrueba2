@@ -154,3 +154,10 @@ C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\obj\Debug\net7.0\Sales.API
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\obj\Debug\net7.0\Sales.API.genruntimeconfig.cache
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\obj\Debug\net7.0\ref\Sales.API.dll
 C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Documents\GitHub\SalesPrueba2\Sales.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

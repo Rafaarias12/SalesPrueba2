@@ -2,7 +2,7 @@
 @inject IRepository repository
 @inject NavigationManager navigatorManager
 @inject SweetAlertService sweetAlertService
-
+@attribute [Authorize(Roles = "Admin")]
 
 <h3>Paises</h3>
 
@@ -120,10 +120,18 @@ else
         // string url1 = $"api/countries?page={page}";
         // string url2 = $"api/countries/totalPages";
 
-        var responseHppt = await repository.Get<List<Country>>(url1);
-        var responseHppt2 = await repository.Get<int>(url2);
-        Countries = responseHppt.Response!;
-        totalPages = responseHppt2.Response!;
+        try
+        {
+            var responseHppt = await repository.Get<List<Country>>(url1);
+            var responseHppt2 = await repository.Get<int>(url2);
+            Countries = responseHppt.Response!;
+            totalPages = responseHppt2.Response!;
+        }
+        catch (Exception ex)
+        {
+            await sweetAlertService.FireAsync("Error", ex.Message, SweetAlertIcon.Error);
+        }
+
     }
 
 

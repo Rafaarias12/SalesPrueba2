@@ -6,7 +6,7 @@
 
 <p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="IncrementCountAsync">Click me</button>
 
 @code {
     private int currentCount = 0;
@@ -15,4 +15,22 @@
     {
         currentCount++;
     }
+
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationStateTask { get; set; } = null!;
+
+    private async Task IncrementCountAsync()
+    {
+        var authenticationState = await authenticationStateTask;
+        var isAuthenticated = authenticationState.User.Identity!.IsAuthenticated;
+        if (isAuthenticated)
+        {
+            currentCount++;
+        }
+        else
+        {
+            currentCount--;
+        }
+    }
+
 }
