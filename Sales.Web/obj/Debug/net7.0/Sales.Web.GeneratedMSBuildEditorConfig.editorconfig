@@ -26,6 +26,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Auth/EditUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxFZGl0VXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Auth/InputImg.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxJbnB1dEltZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Auth/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Auth/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/ChangePassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhbmdlUGFzc3dvcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Cities/CityCreate.razor]

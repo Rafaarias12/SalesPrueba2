@@ -38,6 +38,29 @@ a, .btn-link {
     color: red;
 }
 
+.spinner {
+    border: 16px solid silver;
+    border-top: 16px solid #337AB7;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    animation: spin 700ms linear infinite;
+    top: 40%;
+    left: 55%;
+    position: absolute;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
@@ -89,6 +112,7 @@ a, .btn-link {
             transition: stroke-dasharray 0.05s ease-in-out;
         }
 
+
 .loading-progress-text {
     position: absolute;
     text-align: center;
@@ -99,3 +123,4 @@ a, .btn-link {
     .loading-progress-text:after {
         content: var(--blazor-load-percentage-text, "Loading");
     }
+
