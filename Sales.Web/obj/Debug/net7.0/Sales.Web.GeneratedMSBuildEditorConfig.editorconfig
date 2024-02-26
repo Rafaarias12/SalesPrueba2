@@ -62,6 +62,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZXNldFBhc3N3b3JkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Auth/UserIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxVc2VySW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/CarouselView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyb3VzZWxWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Categories/CategoriesForm.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -126,6 +134,46 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Orders/ModifyTemporalSale.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXE1vZGlmeVRlbXBvcmFsU2FsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Orders/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXFByb2R1Y3REZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Orders/SaleConfirmed.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXFNhbGVDb25maXJtZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Orders/SaleDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXFNhbGVEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Orders/SaleIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXFNhbGVJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Orders/ShowCart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXFNob3dDYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Products/ProductCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Products/ProductEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Products/ProductForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdEZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/Products/ProductsIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdHNJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Pages/States/EditState.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXEVkaXRTdGF0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -144,6 +192,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Shared/AuthLinks.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEF1dGhMaW5rcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Shared/MultipleSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE11bHRpcGxlU2VsZWN0b3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dell/Documents/GitHub/SalesPrueba2/Sales.Web/Shared/Pagination.razor]

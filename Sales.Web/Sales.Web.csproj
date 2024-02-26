@@ -7,10 +7,89 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\Images\products\adidas_barracuda.png" />
+    <Content Remove="wwwroot\Images\products\Adidas_superstar.png" />
+    <Content Remove="wwwroot\Images\products\airpos.png" />
+    <Content Remove="wwwroot\Images\products\airpos2.png" />
+    <Content Remove="wwwroot\Images\products\arnes_mascota.png" />
+    <Content Remove="wwwroot\Images\products\audifonos_bose.png" />
+    <Content Remove="wwwroot\Images\products\bicicleta_ribble.png" />
+    <Content Remove="wwwroot\Images\products\Boost_Original.png" />
+    <Content Remove="wwwroot\Images\products\buso_adidas.png" />
+    <Content Remove="wwwroot\Images\products\cama_mascota.png" />
+    <Content Remove="wwwroot\Images\products\camisa_cuadros.png" />
+    <Content Remove="wwwroot\Images\products\casco.png" />
+    <Content Remove="wwwroot\Images\products\casco_bicicleta.png" />
+    <Content Remove="wwwroot\Images\products\ipad.png" />
+    <Content Remove="wwwroot\Images\products\iphone13.png" />
+    <Content Remove="wwwroot\Images\products\iphone13b.png" />
+    <Content Remove="wwwroot\Images\products\iphone13c.png" />
+    <Content Remove="wwwroot\Images\products\iphone13d.png" />
+    <Content Remove="wwwroot\Images\products\mac_book_pro.png" />
+    <Content Remove="wwwroot\Images\products\mancuernas.png" />
+    <Content Remove="wwwroot\Images\products\mascarilla_cara.png" />
+    <Content Remove="wwwroot\Images\products\mouse_gamer.png" />
+    <Content Remove="wwwroot\Images\products\newbalance530.png" />
+    <Content Remove="wwwroot\Images\products\newbalance565.png" />
+    <Content Remove="wwwroot\Images\products\nike_air.png" />
+    <Content Remove="wwwroot\Images\products\nike_zoom.png" />
+    <Content Remove="wwwroot\Images\products\silla_gamer.png" />
+    <Content Remove="wwwroot\Images\products\teclado_gamer.png" />
+    <Content Remove="wwwroot\Images\products\whey_protein.png" />
+    <Content Remove="wwwroot\Images\users\Angelina.jpg" />
+    <Content Remove="wwwroot\Images\users\bob.jpg" />
+    <Content Remove="wwwroot\Images\users\Brad.jpg" />
+    <Content Remove="wwwroot\Images\users\JuanZuluaga.jpeg" />
+    <Content Remove="wwwroot\Images\users\LedysBedoya.jpeg" />
+    <Content Remove="wwwroot\Images\users\Liv.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\.DS_Store" />
+    <None Include="wwwroot\Images\products\adidas_barracuda.png" />
+    <None Include="wwwroot\Images\products\Adidas_superstar.png" />
+    <None Include="wwwroot\Images\products\airpos.png" />
+    <None Include="wwwroot\Images\products\airpos2.png" />
+    <None Include="wwwroot\Images\products\arnes_mascota.png" />
+    <None Include="wwwroot\Images\products\audifonos_bose.png" />
+    <None Include="wwwroot\Images\products\bicicleta_ribble.png" />
+    <None Include="wwwroot\Images\products\Boost_Original.png" />
+    <None Include="wwwroot\Images\products\buso_adidas.png" />
+    <None Include="wwwroot\Images\products\cama_mascota.png" />
+    <None Include="wwwroot\Images\products\camisa_cuadros.png" />
+    <None Include="wwwroot\Images\products\casco.png" />
+    <None Include="wwwroot\Images\products\casco_bicicleta.png" />
+    <None Include="wwwroot\Images\products\ipad.png" />
+    <None Include="wwwroot\Images\products\iphone13.png" />
+    <None Include="wwwroot\Images\products\iphone13b.png" />
+    <None Include="wwwroot\Images\products\iphone13c.png" />
+    <None Include="wwwroot\Images\products\iphone13d.png" />
+    <None Include="wwwroot\Images\products\mac_book_pro.png" />
+    <None Include="wwwroot\Images\products\mancuernas.png" />
+    <None Include="wwwroot\Images\products\mascarilla_cara.png" />
+    <None Include="wwwroot\Images\products\mouse_gamer.png" />
+    <None Include="wwwroot\Images\products\newbalance530.png" />
+    <None Include="wwwroot\Images\products\newbalance565.png" />
+    <None Include="wwwroot\Images\products\nike_air.png" />
+    <None Include="wwwroot\Images\products\nike_zoom.png" />
+    <None Include="wwwroot\Images\products\silla_gamer.png" />
+    <None Include="wwwroot\Images\products\teclado_gamer.png" />
+    <None Include="wwwroot\Images\products\whey_protein.png" />
+    <None Include="wwwroot\Images\users\Angelina.jpg" />
+    <None Include="wwwroot\Images\users\bob.jpg" />
+    <None Include="wwwroot\Images\users\Brad.jpg" />
+    <None Include="wwwroot\Images\users\JuanZuluaga.jpeg" />
+    <None Include="wwwroot\Images\users\LedysBedoya.jpeg" />
+    <None Include="wwwroot\Images\users\Liv.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Blazored.Modal" Version="7.1.0" />
     <PackageReference Include="CurrieTechnologies.Razor.SweetAlert2" Version="5.5.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.14" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="7.0.14" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.14" PrivateAssets="all" />
+    <PackageReference Include="MudBlazor" Version="6.16.0" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.3.1" />
   </ItemGroup>
 

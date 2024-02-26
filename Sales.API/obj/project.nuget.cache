@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W5VUxc/wW3XpYT5uVYUFmKRxukY6BP1sfLUaLi8lzJhb7KDCPCfbU8ugp6iLekcfOhuno3xJprLIHvp5PUNpNQ==",
+  "dgSpecHash": "mtzVOHqN26kPt+HO5i0RNOZLxSTgLr8ZxQ/Wu9Wsj1sXHUYtt7TO3X2axB3tW3E7sVjGyrm2TVSEBlqzPph/Kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.API\\Sales.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.storage.blobs\\12.19.1\\azure.storage.blobs.12.19.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.storage.common\\12.18.1\\azure.storage.common.12.18.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.3.1\\blazored.modal.7.3.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",

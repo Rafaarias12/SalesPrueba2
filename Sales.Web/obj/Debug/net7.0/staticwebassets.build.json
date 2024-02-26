@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mMW2G70DJ0X3+3N+Ba7XNrP9YYFLDK/nDeenLdoA1v4=",
+  "Hash": "M9W9HWHvz/sBlQ8sUEaico0ZRDUAezgyujpo2fHkFFM=",
   "Source": "Sales.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css",
+      "SourceId": "Blazored.Modal",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Modal",
+      "RelativePath": "Blazored.Modal.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js",
+      "SourceId": "Blazored.Modal",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Modal",
+      "RelativePath": "BlazoredModal.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js"
+    },
     {
       "Identity": "C:\\Users\\Dell\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
@@ -682,6 +720,44 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\7.0.14\\staticwebassets\\AuthenticationService.js"
     },
     {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\mudblazor\\6.16.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\mudblazor\\6.16.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\mudblazor\\6.16.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\mudblazor\\6.16.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\mudblazor\\6.16.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\mudblazor\\6.16.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -718,6 +794,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.14\\build\\net7.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Modal.dll",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Modal.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\blazored.modal\\7.1.0\\lib\\net6.0\\Blazored.Modal.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\CurrieTechnologies.Razor.SweetAlert2.dll",
@@ -869,7 +964,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.14\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.16\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
@@ -907,7 +1002,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.14\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.16\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -926,7 +1021,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.14\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.16\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -945,7 +1040,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.14\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.16\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
@@ -1059,7 +1154,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.14\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.16\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -1404,6 +1499,44 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.14\\lib\\net7.0\\Microsoft.Extensions.Identity.Stores.dll"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.16\\lib\\net7.0\\Microsoft.Extensions.Localization.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.dll",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.localization\\7.0.16\\lib\\net7.0\\Microsoft.Extensions.Localization.dll"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -1572,7 +1705,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.jsinterop\\7.0.14\\lib\\net7.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.jsinterop\\7.0.16\\lib\\net7.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -1687,6 +1820,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\7.0.15\\runtimes\\browser-wasm\\lib\\net7.0\\mscorlib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\mudblazor\\6.16.0\\lib\\net7.0\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\netstandard.dll",
@@ -4995,6 +5147,25 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.IdentityModel.JsonWebTokens.dll"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\0zyoml9qzl.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\MudBlazor.dll"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\17rvp853ld.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -6192,6 +6363,25 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.AccessControl.dll"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\agp2m1v91o.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\amk6n18bkm.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -6209,25 +6399,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.AppContext.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\apejwhpsw0.gz",
-      "SourceId": "Sales.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\bk85boav5t.gz",
@@ -6857,25 +7028,6 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\gowbw5gjuy.gz",
-      "SourceId": "Sales.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\gzagapw5r7.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -6988,6 +7140,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.VisualBasic.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\ikbstzh8dt.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\ikrcmo6q9o.gz",
@@ -7216,25 +7387,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\kiien1u786.gz",
-      "SourceId": "Sales.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\kijucosz85.gz",
@@ -7636,6 +7788,25 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Console.dll"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\nlmk6bxheu.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.dll"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\nrklg07ocs.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -7748,6 +7919,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\ouzthy26c9.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\owd4qwlaw8.gz",
@@ -7978,6 +8168,44 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.NameResolution.dll"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\q7rh3bj95r.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\q7sv9y12fd.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Modal.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Modal.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Modal.dll"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\qwrezgmnrk.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -8187,6 +8415,25 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.ComponentModel.dll"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\stqs4ges22.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\t60sokla2e.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -8242,6 +8489,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Reflection.Emit.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\tcqvfau6z8.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\tlujswobgv.gz",
@@ -8776,6 +9042,25 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Abstractions.dll"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\xcn6r8hlvj.gz",
+      "SourceId": "Sales.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\xggb6gx1vu.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -8966,25 +9251,6 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Private.Xml.dll"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\ywpwq0slcl.gz",
-      "SourceId": "Sales.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\zdbg9pclnf.gz",
       "SourceId": "Sales.Web",
       "SourceType": "Computed",
@@ -9002,25 +9268,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Xml.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\zdgd3llgcf.gz",
-      "SourceId": "Sales.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\zffa4jpsxk.gz",
@@ -9097,25 +9344,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Data.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\compressed\\zvdes5pmhn.gz",
-      "SourceId": "Sales.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Dell\\Documents\\GitHub\\SalesPrueba2\\Sales.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Sales.Web.styles.css",
